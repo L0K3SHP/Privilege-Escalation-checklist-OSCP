@@ -1,1 +1,1 @@
-# Linux-Privilege-Escalation-checklist-OSCP
+# Privilege-Escalation-checklist-OSCP
