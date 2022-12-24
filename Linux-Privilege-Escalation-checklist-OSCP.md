@@ -1,6 +1,6 @@
 # Linux-Privilege-Escalation-checklist-OSCP
 
-- [ ] Enumeration
+- [x] Enumeration
 - [ ] Kernal Exploits
 - [ ] Service Exploits
 - [ ] Weak File Permissions
